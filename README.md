@@ -56,8 +56,8 @@ Example
 ```
 
 Details
-| Name | Type | Description | Required
---------------------------------------
+| Name | Type | Description | Required |
+-----|--------|-------------|----------
 | id | String | The internal ORDER ID | ❌
 | number | String | The ORDER number | ✅ 
 | subtotal_price | Number | The Order Subtotal (i.e after discounts but before shipping and taxes |  ❌
