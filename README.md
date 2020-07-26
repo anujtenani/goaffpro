@@ -1,4 +1,4 @@
-# GoAffPro - Affiliate marketing
+# Goaffpro - Affiliate marketing app for your ecommerce store
 
 
 [Roadmap](https://github.com/anujtenani/goaffpro/projects/3)
