@@ -5,7 +5,9 @@
 
 [Issue Tracker](https://github.com/anujtenani/goaffpro/issues)
 
-[Wiki](https://github.com/anujtenani/goaffpro/wiki)
+[Wiki](https://docs.goaffpro.com)
+
+[API Documentation](https://api.goaffpro.com/docs/admin)
 
 
 ## Client SDK
